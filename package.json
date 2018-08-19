@@ -17,7 +17,7 @@
     "component"
   ],
   "author": "Lucas Fronza",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/lucasfronza/react-native-loading-animation/issues"
   },
