@@ -1,0 +1,25 @@
+{
+  "name": "react-native-loading-animation",
+  "version": "0.0.1",
+  "description": "Loading animation component for React Native applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasfronza/react-native-loading-animation.git"
+  },
+  "keywords": [
+    "react-native",
+    "loading",
+    "animation",
+    "component"
+  ],
+  "author": "Lucas Fronza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasfronza/react-native-loading-animation/issues"
+  },
+  "homepage": "https://github.com/lucasfronza/react-native-loading-animation#readme"
+}
